@@ -43,3 +43,25 @@ In Super Soukoban, you play as a warehouse worker who must organize boxes scatte
 
 ---
 
+## **Team Members**
+![image](https://github.com/Patoo49/Patoo49.github.io/assets/162798739/dbda883a-dc35-4357-9953-abfc9c12fce3)
+
+
+### **Jana Ouig**
+- **Responsibility:** Code & design
+- **GitHub:** [J4an4](https://github.com/J4an4)
+
+### **García Subirana, Guillermo**
+- **Responsibility:** Managment & Art
+- **GitHub:** [Patoo49](https://github.com/Patoo49)
+
+---
+
+## **Additional Resources**
+
+- For more information, see our [wiki page HERE](Poner link repositorio aqui wiki).
+- Download the latest version of the game [HERE](https://github.com/your-repo/releases).//poner realese del juego aqui
+- Check our GitHub repository [HERE](https://github.com/your-repo). Link del repositorio general
+
+---
+
