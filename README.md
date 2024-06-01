@@ -9,7 +9,7 @@
 > **Our project**
 
 
-We’re going to replicate the 1998 Super Soukobam game arcade version. This project has been done by two catalan students of CITM - UPC (Terrasa, Spain).
+We’re going to replicate the 1998 Super Soukoban game arcade version. This project has been done by two catalan students of CITM - UPC (Terrasa, Spain).
 
 > **Introduction**
 
