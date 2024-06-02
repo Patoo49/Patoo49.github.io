@@ -1,4 +1,4 @@
-# SUPER SOUKOBAN SANTA TEAM
+# SUPER SOUKOBAN SANTAS TEAM
 
 ![Super Soukoban](https://github.com/Patoo49/Patoo49.github.io/assets/162798739/f4768802-d48c-4fd2-bae9-15c2839dac0a)
 
@@ -18,7 +18,7 @@ Super Soukoban is a puzzle game developed by THINKING RABBIT and published by PA
 
 ## **Storyline**
 
-In Super Soukoban, you play as a warehouse worker who must organize boxes scattered around different levels. Each level represents a new challenge where you must use your wits to place all the boxes in their proper spots. The game doesn't have a complex storyline, but its simplicity is part of its charm, focusing on pure puzzle-solving gameplay.
+In Super Soukoban, you play as a warehouse worker who must organize boxes scattered around different levels. Each level represents a new challenge where you must use your wits to place all the boxes in their proper spots. The game doesn't have a complex storyline, only that the worker want to get some money for buy his dream car, but its simplicity is part of its charm, focusing on pure puzzle-solving gameplay.
 
 ---
 
@@ -80,6 +80,9 @@ In Super Soukoban, you play as a warehouse worker who must organize boxes scatte
 - **Undo Feature:** The undo feature is a critical tool to refine your strategy and correct mistakes.
 - **Restarting:** Restarting a level is useful when you're stuck or when you want to try a different approach.
 
+
+## **GamePlay**
+https://youtu.be/clKFhDMHYgk
 ---
 
 ## **Team Members**
