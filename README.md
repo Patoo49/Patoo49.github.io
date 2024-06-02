@@ -59,9 +59,9 @@ In Super Soukoban, you play as a warehouse worker who must organize boxes scatte
 
 ## **Additional Resources**
 
-- For more information, see our [wiki page HERE](Poner link repositorio aqui wiki).
-- Download the latest version of the game [HERE](https://github.com/your-repo/releases).//poner realese del juego aqui
-- Check our GitHub repository [HERE](https://github.com/your-repo). Link del repositorio general
+- For more information, see our [wiki page HERE](https://github.com/J4an4/Game-Analysis-Super-Soukoban.wiki.git).
+- Download the latest version of the game [HERE](https://github.com/your-repo/releases).
+- Check our GitHub repository [HERE](https://github.com/J4an4/Game-Analysis-Super-Soukoban). 
 
 ---
 
