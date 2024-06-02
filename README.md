@@ -44,7 +44,8 @@ In Super Soukoban, you play as a warehouse worker who must organize boxes scatte
 ---
 
 ## **Team Members**
-![image](https://github.com/Patoo49/Patoo49.github.io/assets/162798739/dbda883a-dc35-4357-9953-abfc9c12fce3)
+![foto Jana Alonso](https://github.com/Patoo49/Patoo49.github.io/assets/162798739/64d87e82-7a83-4804-85bd-16eaeadb1fcc)
+
 
 
 ### **Jana Puig**
