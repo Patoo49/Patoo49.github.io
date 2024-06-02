@@ -48,6 +48,7 @@ In Super Soukoban, you play as a warehouse worker who must organize boxes scatte
 - **F1 Key:** Show hitbox
 - **F2 Key:** Automatically win the level
 - **F3 Key:** Automatically lose the level
+- **F4 Key:** Automatically Pass all the game
 - **Arrow Keys (Right, Left, Up, Down):** Move the character in the corresponding direction:
   - **Up Arrow:** Move the character up.
   - **Down Arrow:** Move the character down.
